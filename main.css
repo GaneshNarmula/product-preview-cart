@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.card{
+    margin-top: 40px;
+    margin-left: 50px;
+    width: 40rem;
+}
+p{
+    color: rgb(86, 177, 177);
+    font-family: verdana;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+
+}
